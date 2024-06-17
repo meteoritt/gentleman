@@ -196,7 +196,7 @@ e-mail: sergos@ruops.dev
 
 ## [Ubuntu](https://ubuntu.com/download)
 
-One of most popular Linux distributive for servers and desktop (see [Kubuntu with KDE](kubuntu/REAME.md)). Best for typical server infrastructure without graphics, Docker practice and recommended for beginners. Largest package repository based on Debian + [PPA](kubuntu/README.md#PPA) + [snap](snap/README.md) and flatpak + any popular software support only Ubuntu.
+One of most popular Linux distributive for servers and desktop (see [Kubuntu with KDE](kubuntu/README.md)). Best for typical server infrastructure without graphics, Docker practice and recommended for beginners. Largest package repository based on Debian + [PPA](kubuntu/README.md#PPA) + [snap](snap/README.md) and flatpak + any popular software support only Ubuntu.
 
 Developed by: [Canonical](https://canonical.com/#partners)
 Creator: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) (also Space Adventures Tourist)
