@@ -1,3 +1,9 @@
+Обзор трендов DevOps индустрии от @ChudakovSergey ( https://t.me/ChudakovSergey )
+
+Делюсь опытом и знаниями про платформу JetBrains Space и Kotlin, а также Linux, Open Source, Python, Docker, Kubernetes
+
+https://t.me/ruopsdev
+
 # i'M DEVOPS @ gk lanit by CSRedRat as meteoritt
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CSRedRat.gentleman)
