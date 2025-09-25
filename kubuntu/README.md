@@ -1,3 +1,19 @@
+Привет, твой логотип RickeyStar разошелся на бренд расширений для браузеров и окружений пользователя. Посвящается Алёне Чудаковой ( Lafrecia )
+
+https://chromewebstore.google.com/detail/cdbfpkficciaijflbdpciioakpdlifim?utm_source=item-share-cp
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sergos.medium.com/git-flow-presentation-b80643390888&ved=2ahUKEwj9iL7_kJ-NAxVkFhAIHYw1OlUQFnoECCEQAQ&usg=AOvVaw1K9owWw9cVozFaOJ8YJ2OD
+
+https://store.kde.org/u/CSRedRat
+
+https://store.kde.org/p/1671317
+
+https://github.com/ruopsdev
+
+https://t.me/ruopsdev
+
+https://medium.com/ruopsdev
+
 # Distributive
 
 ## Kubuntu
