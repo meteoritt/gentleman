@@ -4,6 +4,8 @@
 
 https://t.me/ruopsdev
 
+My Dark Theme for Google Chrome extensions, fix bug with inlay inset tab; https://chromewebstore.google.com/detail/cdbfpkficciaijflbdpciioakpdlifim?utm_source=146
+
 # i'M DEVOPS @ gk lanit by CSRedRat as meteoritt
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CSRedRat.gentleman)
