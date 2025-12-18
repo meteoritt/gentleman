@@ -1146,6 +1146,7 @@ Free program examples:
 - App Installer: https://www.microsoft.com/store/productId/9NBLGGH4NNS1
 - AIDA64: https://www.microsoft.com/store/productId/9NBLGGH2WNWH
 - Rufus: https://www.microsoft.com/store/productId/9PC3H3V7Q9CH
+- #*PowerShell*: [https://apps.microsoft.com/detail/9mz1snwt0n5d?hl=en-us&gl=RU](https://apps.microsoft.com/detail/9mz1snwt0n5d?hl=en-us&gl=RU)
 
 Fonts:
 
@@ -1444,6 +1445,7 @@ chmod 750 ~
 ## Glossary
 
 ## [ToDo](todo.md)
+
 
 Привет, твой логотип RickeyStar разошелся на бренд расширений для браузеров и окружений пользователя
 
